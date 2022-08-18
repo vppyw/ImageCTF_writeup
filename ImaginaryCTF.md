@@ -295,3 +295,15 @@ print(long_to_bytes(c1))
 ## aes
 
 暴搜`rockyou.txt`
+
+## _
+
+unpackage inside a list
+<https://stackoverflow.com/questions/57896860/pythonic-way-to-unpack-an-iterator-inside-of-a-list>
+輸入`[*_('\146\154\141\147.\164\170\164')]`
+
+## escape quikmafs
+
+```python=
+
+```
